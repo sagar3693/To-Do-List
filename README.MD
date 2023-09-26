@@ -1,5 +1,6 @@
 # To-Do List Project
-![alt project] (./images/list.png)
+
+![alt text](./images/list.png)
 
 # Introduction 
 You can add and delete any task.
